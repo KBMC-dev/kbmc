@@ -16,8 +16,6 @@ jobs:
 
     - name: Setup Flutter
       uses: subosito/flutter-action@v1
-      with:
-        channel: 'any'
         #esta fue mi idea
     - name: actions in flutter
       run: flutter pub get
