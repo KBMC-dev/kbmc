@@ -3,7 +3,7 @@ name: KBMC web
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
