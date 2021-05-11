@@ -1,3 +1,0 @@
-# kbmc
-Blog Personal
-Hola
