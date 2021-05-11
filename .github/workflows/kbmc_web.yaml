@@ -16,12 +16,7 @@ jobs:
 
     - name: Setup Flutter
       uses: subosito/flutter-action@v1
-        #esta fue mi idea
-    - name: actions in flutter
-      run: flutter pub get
-        #tambien mi idea
-    - name: Fluer test
-      run: flutter test
+        
 
     - name: Enable Flutter web
       run: flutter config --enable-web
